@@ -13,3 +13,15 @@ function returnsAnAnonymousFunction(){
     console.log("I am anonymous!");
   }
 }
+
+// function receivesAFunction(callBack){
+//   callBack();
+// } 
+
+// function returnsANamedFunction(){
+//   return function namedFunction(){}
+// } 
+
+// function returnsAnAnonymousFunction(){
+//   return () => {}
+// } 
